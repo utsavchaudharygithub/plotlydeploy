@@ -1,6 +1,10 @@
-
+Do visit my website:
 https://utsavchaudharygithub.github.io/
 
+
+ We created website for Roza to her volunteers to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
+
+Our company used JavaScript, Plotly, and D3.js, create a Bar chart, Bubble chart,  Gauge chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. 
 
 <img width="1161" alt="Screen Shot 2022-01-22 at 9 09 15 PM" src="https://user-images.githubusercontent.com/91306158/150665915-00834a54-4958-4f4f-8be0-bfefb625f14a.png">
 
